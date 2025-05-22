@@ -13,3 +13,6 @@ export MSSQL_PASSWORD=
 export PATH=
 
 export DOTNET_ROOT=
+
+# sqlcmd 1.8.2 path
+export PATH=
